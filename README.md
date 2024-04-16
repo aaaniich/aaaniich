@@ -1,5 +1,10 @@
 ### Hi there 👋
+Hey, everybody!
+I graduated from Sechenov Medical University in Moscow, specialising in bioengineering and bioinformatics. 
+For more than 2 years I have been working as a bioinformatician at FMBA.
 
+You will hardly ever see me in the lab, I prefer the computer))))
+My responsibilities include: biostatistics, mathematical modelling, analysis of RNA and DNA sequencing data. Performing systems biology data analysis (including differential expression, GWAS, SNP/CNV/ROH searches, selection signature analysis, phylogenetic analysis).
 <!--
 **aaaniich/aaaniich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
